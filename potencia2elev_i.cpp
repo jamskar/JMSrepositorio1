@@ -17,6 +17,10 @@ int main()
         std::cout<<"2^"<<i<<"+";
     }
     std::cout<<"\n la suma es  "<<suma<<"\n";
+    std::cout<<"\n la suma es  "<<suma<<"\n";
+    std::cout<<"\n la suma es  "<<suma<<"\n";
+    std::cout<<"\n la suma es  "<<suma<<"\n";
+    std::cout<<"\n la suma es  "<<suma<<"\n";
     system("pause");
     return 0;
 }

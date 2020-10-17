@@ -6,7 +6,7 @@ int main()
     float n,suma=0, potencia=0;
     do
     {
-        std::cout<<"ingresa un numero  o numerito> 1 : ";
+        std::cout<<"ingresa un numero > 1 : ";
         std::cin>>n;    
 
     } while (n<1);
